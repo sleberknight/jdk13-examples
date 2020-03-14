@@ -1,0 +1,1 @@
+Hello World!\n\nThis is the beginning of text blocks in Java.\nFinally\n\nIn JDK 13!
